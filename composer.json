@@ -1,5 +1,5 @@
 {
-    "name": "reza/testpack",
+    "name": "reza_pack/testpack",
     "autoload": {
         "psr-4": {
             "Reza\\testpack\\": "src/"
