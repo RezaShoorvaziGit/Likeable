@@ -1,0 +1,15 @@
+{
+    "name": "reza/testpack",
+    "autoload": {
+        "psr-4": {
+            "Reza\\testpack\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "reza20000",
+            "email": "rshoorvazi@gmail.com"
+        }
+    ],
+    "require": {}
+}
